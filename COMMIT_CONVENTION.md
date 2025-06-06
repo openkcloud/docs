@@ -52,6 +52,7 @@
 ## 감사의 말씀
 본 커밋 컨벤션은 아래의 내용들을 참고하여 작성되었습니다.
 
+  * https://www.conventionalcommits.org/ko/v1.0.0/
   * https://github.com/Cotidie/Cotidie/blob/main/Commit%20Convention.md
   * https://velog.io/@archivvonjang/Git-Commit-Message-Convention
 
