@@ -6,11 +6,11 @@ Related materials are as follows.
 
 ## openKcloud contribution guide
 
-- [We're looking for contributions](https://github.com/openKcloud/docs/blob/main/CONTRIBUTING.md "docs/CONTRIBUTING.md")
+- [We're looking for contributions](https://github.com/openkcloud/docs/blob/main/CONTRIBUTING.md "docs/CONTRIBUTING.md")
 
-- [Contribution Guide (Korean)](https://github.com/openKcloud/docs/blob/main/contributing/how_to_open_a_pull_request-ko.md "docs/contributing/how_to_open_a_pull_request-ko.md")
+- [Contribution Guide (Korean)](https://github.com/openkcloud/docs/blob/main/contributing/how_to_open_a_pull_request-ko.md "docs/contributing/how_to_open_a_pull_request-ko.md")
 
-- [Contributor Covenant Code of Conduct](https://github.com/openKcloud/docs/blob/main/CODE_OF_CONDUCT.md "docs/CODE_OF_CONDUCT.md")
+- [Contributor Covenant Code of Conduct](https://github.com/openkcloud/docs/blob/main/CODE_OF_CONDUCT.md "docs/CODE_OF_CONDUCT.md")
 
 ##  Acknowledgements
 
